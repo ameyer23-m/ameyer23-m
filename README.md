@@ -33,10 +33,11 @@ Welcome to my GitHub repository! Here you will find various projects and code sn
 
 #
 
-Prior development work done in *** 3 years of experience with R, 3 years of experience with Python, 1 year of experience with SQL***
+Prior development work done in ***R, Python, SQL***
+
 Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny***
 
-Currently Working on ***My Senior Thesis on Algorithm Fairness and a Deep Learning Approach to Eye Gaze***
+Currently Working on my senior thesis on ***Algorithm Fairness and a Deep Learning Approach to Eye Gaze***
  
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyer23-m&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

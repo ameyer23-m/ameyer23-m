@@ -1,5 +1,11 @@
 ### 👋 Hello there, I'm Adam
-Welcome to my GitHub repository! Here you will find various projects and code snippets that I have created and worked on. Feel free to explore and use the code for your own projects. If you have any questions or suggestions, please feel free to open an issue or contact me directly. Thank you for visiting!
+My name is Adam Meyer and I am an aspiring data scientist. This spring I will be graduating from the College of Wooster in Statistical and Data Science. I believe that artificial itelligence and machine learning, when used properly, will create help the world for the better.
+
+This Github includes person projects, some of which are still in progess, that include topics like:
+- Python coding
+- Machine Learning
+- Deep Learning
+- Data Visualizations
 
 ## Contact Information
 <div id="badges">

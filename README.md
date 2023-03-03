@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Adam
+### 👋 Hello there
 My name is Adam Meyer and I am an aspiring data scientist. This spring I will be graduating from the College of Wooster in Statistical and Data Science. I believe that artificial itelligence and machine learning, when used properly, will create help the world for the better.
 
 This Github includes person projects, some of which are still in progess, that include topics like:

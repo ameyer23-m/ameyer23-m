@@ -21,6 +21,9 @@ This Github includes person projects, some of which are still in progess, that i
   <a href=mailto:ameyer23@wooster.edu>
     <img src="https://img.shields.io/badge/Wooster%20Email-black?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href= https://public.tableau.com/app/profile/adam.meyer8878>
+    <img src="https://img.shields.io/badge/Tableau-green?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
 </div>
 
 ## School Stuff

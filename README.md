@@ -26,9 +26,9 @@ This Github includes personal projects, some of which are still in progess, that
   </a>
 </div>
 
-## School Stuff
+## Education
 
-**Education** - Statistical and Data Science Student @ [🐄 (click me!)](https://wooster.edu/) 
+**The College of Wooster** - Statistical and Data Science Student @ [🐄 (click me!)](https://wooster.edu/) 
 **Classes (Spring 2023)** 
  - DATA 452 - Independent Study
  - DATA 201 - Data Visualization
@@ -45,7 +45,7 @@ Prior development work done in ***R, Python, SQL***
 
 Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny***
 
-Currently Working on my senior thesis on ***Algorithm Fairness and a Deep Learning Approach to Eye Gaze***
+Recently finished my senior thesis on ***Algorithm Fairness and a Deep Learning Approach to Eye Gaze***
  
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyer23-m&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

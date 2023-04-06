@@ -27,7 +27,6 @@ This Github includes personal projects, some of which are still in progess, that
 </div>
 
 ## School Stuff
----
 
 **Education** - Statistical and Data Science Student @ [🐄 (click me!)](https://wooster.edu/) 
 **Classes (Spring 2023)** 

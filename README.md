@@ -45,7 +45,9 @@ Prior development work done in ***R, Python, SQL***
 
 Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny***
 
-Recently finished my senior thesis on ***Algorithm Fairness and a Deep Learning Approach to Eye Gaze***
+Recently finished my senior thesis on ***Uncovering Unintended Consequences: A Deep Learning Approach to Algorithmic Fairness in Eye Gaze Prediction***
+
+Currently working on **Flask web application that uses a MySQL database with company news stories**
  
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyer23-m&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

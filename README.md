@@ -41,9 +41,9 @@ This Github includes personal projects, some of which are still in progess, that
 
 #
 
-Prior development work done in ***R, Python, SQL***
+Prior development work done in ***R, Python, SQL, HTML***
 
-Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny***
+Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, MySQL, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny***
 
 Recently finished my senior thesis on ***Uncovering Unintended Consequences: A Deep Learning Approach to Algorithmic Fairness in Eye Gaze Prediction***
 

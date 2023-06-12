@@ -48,6 +48,4 @@ Currently working on **Flask web application that uses a MySQL database with com
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyer23-m&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 #
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyer23-m&show_icons=true&theme=transparent)
-#
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameyer23-m&theme=transparent)](https://git.io/streak-stats)

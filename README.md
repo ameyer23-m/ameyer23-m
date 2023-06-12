@@ -7,6 +7,7 @@ This Github includes personal projects, some of which are still in progess, that
 - Deep Learning
 - Data Visualizations
 - Data Scraping
+- Web Design
 
 ## Contact Information
 <div id="badges">

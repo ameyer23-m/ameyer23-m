@@ -1,5 +1,5 @@
 ### 👋 Hello there
-My name is Adam Meyer and I am an aspiring data scientist. I graduated from the College of Wooster in Statistical and Data Sciences in May 2023. I believe that artificial intelligence and machine learning, when used properly, will create help the world for the better. I am currently looking for a data science position. Contact me with my email apmeyer16@gmail.com for opportunites.
+My name is Adam Meyer and I am an aspiring data scientist. I graduated from the College of Wooster in Statistical and Data Sciences in May 2023. I believe that artificial intelligence and machine learning, when used properly, will create help the world for the better. I am currently looking for a data science position. Contact me with my email apmeyer16@gmail.com for opportunities.
 
 This Github includes personal projects, some of which are still in progess, that include topics like:
 - Python coding

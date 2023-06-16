@@ -2,12 +2,12 @@
 My name is Adam Meyer and I am an aspiring data scientist. I graduated from the College of Wooster in Statistical and Data Sciences in May 2023. I believe that artificial intelligence and machine learning, when used properly, will create help the world for the better. I am currently looking for a data science position. Contact me with my email apmeyer16@gmail.com for opportunities.
 
 This Github includes personal projects, some of which are still in progess, that include topics like:
-- Python coding
 - Machine Learning
 - Deep Learning
 - Data Visualizations
 - Data Scraping
 - Web Design
+- Game Design
 
 ## Contact Information
 <div id="badges">
@@ -44,7 +44,7 @@ Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, MySQL, Tableau
 
 Recently finished my senior thesis on ***Uncovering Unintended Consequences: A Deep Learning Approach to Algorithmic Fairness in Eye Gaze Prediction***
 
-Currently working on **Flask web application that uses a MySQL database with company news stories**
+Currently working on **Learning JavaScript and developing a Flask web application that serves as an arcade for many different retro videogames**
  
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyer23-m&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

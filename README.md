@@ -1,7 +1,7 @@
 ### 👋 Hello there
-My name is Adam Meyer and I am an aspiring data scientist. I graduated from the College of Wooster in Statistical and Data Sciences in May 2023. I believe that artificial intelligence and machine learning, when used properly, will create help the world for the better. I am currently looking for a data science position. Contact me with my email apmeyer16@gmail.com for opportunities.
+My name is Adam Meyer and I am an aspiring data scientist. I graduated from the College of Wooster in Statistical and Data Sciences in May 2023. I believe that artificial intelligence and machine learning, when used properly, will help the world for the better. I am currently looking for a data science position. Contact me with my email at apmeyer16@gmail.com for opportunities.
 
-This Github includes personal projects, some of which are still in progess, that include topics like:
+This Github includes personal projects, some of which are still in progress, that include topics like:
 - Machine Learning
 - Deep Learning
 - Data Visualizations
@@ -32,19 +32,24 @@ This Github includes personal projects, some of which are still in progess, that
 
 **The College of Wooster 2023 Graduate** - Statistical and Data Science Student @ [🐄 (click me!)](https://wooster.edu/) 
 
+**Senior Thesis Topic:** Uncovering Unintended Consequences: A Deep Learning Approach to Algorithmic Fairness in Eye Gaze Prediction
+
 **Activities** 
  - 🥍 NCAA DIII Wooster Men's Varsity Lacrosse
  - 💻 **Secretary** of Wooster Data Club
 
-#
+## Current Projects
+Bagel Shop Predictive Analytics
 
-Prior development work done in ***R, Python, SQL, HTML***
+## Skills and Expertise
+**Programming Languages:** Python (Pandas, Numpy, Matpoltlib, Seasborn, Sckit-learn), R, SQL, HTML
 
-Prior work with ***Jupyter Notebook, RStudio, Visual Studio Code, MySQL, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny***
+**Machine Learning:** Supervised Learning (Linear Models, Support Vector Machines, K-Nearest Neighbors, Tree-based Models), Unsupervised (Clustering)
 
-Recently finished my senior thesis on ***Uncovering Unintended Consequences: A Deep Learning Approach to Algorithmic Fairness in Eye Gaze Prediction***
+**Deep Learning:** Convolutional Neural Networks (PyTorch, Tensorflow, Keras)
 
-Currently working on **Learning JavaScript and developing a Flask web application that serves as an arcade for many different retro videogames**
+**Software:** Jupyter Notebook, RStudio, Visual Studio Code, MySQL, Tableau, Sigma, Snowflake, Microsoft Office, Canva, Thonny
+
  
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyer23-m&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

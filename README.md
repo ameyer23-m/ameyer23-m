@@ -39,7 +39,10 @@ This Github includes personal projects, some of which are still in progress, tha
  - 💻 **Secretary** of Wooster Data Club
 
 ## Current Projects
-Bagel Shop Predictive Analytics
+Comic Investment Analysis Project
+- using Python
+- web scraping
+
 
 ## Skills and Expertise
 **Programming Languages:** Python (Pandas, Numpy, Matpoltlib, Seasborn, Sckit-learn), R, SQL, HTML
